@@ -20,6 +20,6 @@ venv
 *.ogg
 
 # Model files
-.pt
-.pth
-.ckpt
+*.pt
+*.pth
+*.ckpt
